@@ -1,0 +1,48 @@
+/* AppComponent's private CSS styles */
+h1 {
+  font-family: 'Times New Roman';
+    font-size: 40px;
+    color:black;
+    height: 60px;
+    
+    background-color:   #ff847c;
+    margin-bottom: 0;
+    
+  }
+  body{
+    background-color:#5e6f64;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  nav a {
+    padding: 1rem;
+    text-decoration: none;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    text-decoration: none;
+    display: inline-block;
+    color: ghostwhite;
+    background-color:#9ede73;
+    border-radius: 4px;
+  }
+  
+  nav a:hover {
+    color: white;
+    background-color: #42545C;
+  }
+  nav a.active {
+    background-color:#e84a5f;
+  }
+  footer {
+    text-align: center;
+    font-size: 30px;
+    
+    border-radius: 0px;
+    height: 50px;
+    background-color: #ff847c;
+    color: white;
+  }
+  footer:hover{
+      color: black ;
+  }
+
+  
